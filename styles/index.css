@@ -15,6 +15,8 @@ body {
 
 .title_container{
     display: flex;
+    text-decoration-line: center;
+    color: rgb(49, 17, 78);
 }
 
 .title_site{
@@ -31,9 +33,6 @@ body {
   grid-auto-rows: minmax(100px, auto);
 }
 
-.product_card {
-
-}
 
 .product_card img {
     width: 250px;
