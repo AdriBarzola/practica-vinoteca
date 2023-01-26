@@ -1,11 +1,17 @@
+
 body {
-    background-color: blueviolet;
+    background-color: rgba(176, 100, 247, 0.829);
     margin: 10px;
     font-family: 'Crimson Text', serif;
-/* }
+}
 /* .page-nav {
     border: 1px solid black ; */
-} */
+
+
+.enlace {
+    position: absolute;
+    padding: 20px 50px;
+}
 
 .title_container{
     display: flex;
